@@ -6,7 +6,7 @@
 - 👀 I’m interested in Computers and Sciences.
 - 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
 - 🏫 I'm currently studying Data Structures and Algorithms through Java.
-- 💞️ I’m looking to collaborate in the field of Computational Sciences and Developoment of World Society.
+- 💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
 - 📫 You can reach me @ divyanshu.singh_cs20@gla.ac.in or the mail in my Profile.
 
  
