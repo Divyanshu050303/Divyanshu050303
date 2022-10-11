@@ -41,7 +41,9 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 <img align="left" width="13%" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
  <img align="left" width="13%" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
 <br>
-
+![][quote] <br> ![][meme]
+[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+[meme]: https://random-memer.herokuapp.com
 
 
 ### Badges
