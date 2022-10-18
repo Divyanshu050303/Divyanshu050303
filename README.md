@@ -5,6 +5,7 @@ Hi 👋 My name is Divyanshu Singh
 <p align="right"> <a href="https://www.github.com/Divyanshu050303" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu050303" alt="divyanshu050303" /></a> </p>
+<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
 
 
 - 👋 Hi, I’m Divyanshu Singh
