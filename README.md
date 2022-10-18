@@ -5,9 +5,20 @@ Hi 👋 My name is Divyanshu Singh
 <p align="right"> <a href="https://www.github.com/Divyanshu050303" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu050303" alt="divyanshu050303" /></a> </p>
+
+
 <a href="https://github.com/Bouaskaoun" target="_self">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </a>
+</h1>
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	</a>
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="bouaskaoun" />
+	</a>
+</p>
 
 
 - 👋 Hi, I’m Divyanshu Singh
