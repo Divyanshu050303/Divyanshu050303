@@ -7,12 +7,26 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanshu050303" alt="divyanshu050303" /></a> </p>
 
 
+<p align="center">
+	<a href="https://github.com/Bouaskaoun">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+Developer;DS%20|%20Android%20|%20Web%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+
+
+
 - 👋 Hi, I’m Divyanshu Singh
 - 👀 I’m interested in Computers and Sciences.
 - 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
 - 🏫 I'm currently studying Data Structures and Algorithms through Java.
 - 💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
 - 📫 You can reach me @ divyanshu.singh_cs20@gla.ac.in or the mail in my Profile.
+
+<div align="center">
+  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+  </a>
+</div>
 
 
 
