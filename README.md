@@ -18,7 +18,7 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 - 👋 Hi, I’m Divyanshu Singh
 - 👀 I’m interested in Computers and Sciences.
 - 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
-- 🏫 I'm currently studying Data Structures and Algorithms through Java.
+- 🏫 I'm currently studying Flutter.
 - 💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
 - 📫 You can reach me @ divyanshu.singh_cs20@gla.ac.in or the mail in my Profile.
 
