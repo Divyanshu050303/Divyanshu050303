@@ -40,6 +40,7 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
  <a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
+ <a href="https://kotlinlang.org"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter" width="70" height="50"/> </a>	
 </p>
 
 
