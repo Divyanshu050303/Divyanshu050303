@@ -9,7 +9,7 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+Developer;DS%20|%20Android%20|%20Web%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Flutter+Developer;DS%20|%20Android%20|%20Web%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -20,7 +20,7 @@ src="https://img.shields.io/github/followers/Divyanshu050303?logo=github&style=f
 - 🌱 I’m currently learning everything that comes in my way, but particularly Computers. 😅
 - 🏫 I'm currently studying Flutter.
 - 💞️ I’m looking to collaborate in the field of Computational Sciences and Development of World Society.
-- 📫 You can reach me @ divyanshu.singh_cs20@gla.ac.in or the mail in my Profile.
+- 📫 You can reach me @ divyanshusingh6747@gmail.com or the mail in my Profile.
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
